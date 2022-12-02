@@ -15,3 +15,4 @@ And finally to clean compiled files command is
 ### A-la that's it for my_mastermind
 
 ## From Muhammadiy
+Student platform Qwasar SV
