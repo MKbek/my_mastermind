@@ -13,5 +13,3 @@ And finally to clean compiled files command is
 `make clean`
 
 ### A-la that's it for my_mastermind
-
-## From Muhammadiy
